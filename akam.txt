@@ -1,1 +1,1 @@
-vmess://ZXlKaFpHUWlPaUpoYTJGdExtbHlZVzR5TFdGalkyOTFiblF1YzJodmNDSXNJbkJ6SWpvaVlXdGhiU0F4SWl3aWMyTjVJam9pWVhWMGJ5SXNJblI1Y0dVaU9pSWlMQ0p6Ym1raU9pSWlMQ0p3WVhSb0lqb2lMeUlzSW5CdmNuUWlPakl3T1RVc0luWWlPaklzSW1odmMzUWlPaUlpTENKMGJITWlPaUlpTENKcFpDSTZJbUU0WWpVNU4yWXlMV1ppT0RNdE5HVmhaQzA1WVRWbExXSTVZV0V3TkRsaE9XUTNPU0lzSW01bGRDSTZJbmR6SW4wPQ==
+{"add":"akam.iran2-account.shop","ps":"akam 1","scy":"auto","type":"","sni":"","path":"/","port":2095,"v":2,"host":"","tls":"","id":"a8b597f2-fb83-4ead-9a5e-b9aa049a9d79","net":"ws"}
