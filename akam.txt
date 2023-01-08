@@ -1,1 +1,2 @@
 {"add":"akam.iran2-account.shop","ps":"akam 1","scy":"auto","type":"","sni":"","path":"/","port":2095,"v":2,"host":"","tls":"","id":"a8b597f2-fb83-4ead-9a5e-b9aa049a9d79","net":"ws"}
+- {"name":"","server":"139.99.91.95","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","servername":"1002hk1326.tfzhc.top","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
